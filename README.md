@@ -1,6 +1,6 @@
 # 💎 Thameen Jewelry Web Application 
 
-**Thameen Jewelry** is a web application designed to let users explore stunning jewelry collections, securely purchase their favorites, and manage their accounts effortlessly. Packed with essential features like user authentication, product management, and a seamless shopping cart system with CAPTCHA verification for added security, Thameen Jewelry brings luxury and convenience together in one elegant solution.
+**Thameen Jewelry** is a web application designed to let users explore stunning jewelry collections, securely purchase their favorites, and manage their accounts effortlessly. Packed with essential features like user authentication, product management, and a seamless shopping cart system with CAPTCHA verification for added security.
 
 # 🌟 Features
 
