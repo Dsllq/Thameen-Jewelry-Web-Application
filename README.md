@@ -44,7 +44,7 @@
   
 ## 🔘 License
 
-This web application is developed as a group project for the **CIS423 Web-Based Systems** course at **Imam Abdulrahman Bin Faisal University (IAU)**.
+This web application is developed as a group project for the CIS423: Web-Based Systems course at Imam Abdulrahman Bin Faisal University (IAU).
 
 
 
