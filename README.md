@@ -2,6 +2,8 @@
 
 **Thameen Jewelry** is a web application designed to let users explore stunning jewelry collections, securely purchase their favorites, and manage their accounts effortlessly. Packed with essential features like user authentication, product management, and a seamless shopping cart system with CAPTCHA verification for added security, Thameen Jewelry brings luxury and convenience together in one elegant solution.
 
+---
+
 ## 🌟 Features
 
 - **Responsive Design**  
@@ -15,6 +17,8 @@
 
 - **Customer Support**  
   A dedicated contact form through which users can reach out to the support team for inquiries, feedback, or assistance.
+
+---
 
 ## ⚙️ Functionalities
 
@@ -35,8 +39,12 @@
   
 - **Product Management**  
   Administrators can manage, update, and control the product catalog.
+
+  ---
   
 ## 🔘 License
 
 This web application is developed as a group project for the **CIS423 Web-Based Systems** course at **Imam Abdulrahman Bin Faisal University (IAU)**.
+
+
 
