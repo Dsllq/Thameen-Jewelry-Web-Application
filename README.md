@@ -16,7 +16,7 @@
 - **Customer Support**  
   A dedicated contact form through which users can reach out to the support team for inquiries, feedback, or assistance.
 
-## 🛠️ Functionalities
+## ⚙️ Functionalities
 
 - **Login**  
   Users can log in to the platform using their credentials to access their personal accounts.
@@ -35,14 +35,7 @@
   
 - **Product Management**  
   Administrators can manage, update, and control the product catalog.
-
-## 💻 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Database**: MySQL
-
-
+  
 ## 🔘 License
 
 This web application is developed as a group project for the **CIS423 Web-Based Systems** course at **Imam Abdulrahman Bin Faisal University (IAU)**.
